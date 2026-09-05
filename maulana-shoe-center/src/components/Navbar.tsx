@@ -40,7 +40,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSizeGuide, onNavigate }) =
             className="flex items-center gap-3 text-left group focus:outline-none"
           >
             <img
-              src="/images/maulana-logo.png"
+              src="./images/maulana-logo.png"
               alt="Maulana Shoe Center"
               className="h-10 sm:h-12 w-auto object-contain border border-[#d4ad58]/60 bg-[#111111] px-2 py-1 transition-transform group-hover:scale-105 shadow-sm"
             />
@@ -140,7 +140,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSizeGuide, onNavigate }) =
               <div className="flex items-center justify-between pb-5 border-b border-[#f7f4ed]/15">
                 <div className="flex items-center gap-3">
                   <img
-                    src="/images/maulana-logo.png"
+                    src="./images/maulana-logo.png"
                     alt="Maulana Shoes"
                     className="h-9 w-auto bg-[#111111] p-1 border border-[#d4ad58]/50"
                   />

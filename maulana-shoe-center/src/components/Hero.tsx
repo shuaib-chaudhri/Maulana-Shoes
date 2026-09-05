@@ -94,7 +94,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate, onOpenSizeGuide }) => {
         {/* Right Hero Showcase Image */}
         <div className="relative min-h-[380px] sm:min-h-[460px] lg:min-h-full overflow-hidden bg-[#d5c6ad]">
           <img
-            src="/images/hero-footwear.jpg"
+            src="./images/hero-footwear.jpg"
             alt="Handcrafted leather footwear arranged on a stone pedestal"
             className="absolute inset-0 h-full w-full object-cover object-center transition-transform duration-1000 hover:scale-105"
             fetchPriority="high"

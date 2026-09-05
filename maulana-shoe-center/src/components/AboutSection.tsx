@@ -64,7 +64,7 @@ export const AboutSection: React.FC = () => {
           <div className="relative">
             <div className="relative aspect-[4/3.8] overflow-hidden bg-[#d0c5b2] shadow-xl border border-[#27313b]/10">
               <img
-                src="/images/store-detail.jpg"
+                src="./images/store-detail.jpg"
                 alt="Shopkeeper arranging leather footwear at Maulana Shoe Center, Solapur"
                 loading="lazy"
                 className="h-full w-full object-cover transition-transform duration-700 hover:scale-105"

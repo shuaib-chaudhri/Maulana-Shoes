@@ -18,7 +18,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenSizeGuide }) =
               className="flex items-center gap-3 text-left group"
             >
               <img
-                src="/images/maulana-logo.png"
+                src="./images/maulana-logo.png"
                 alt="Maulana Shoes"
                 className="h-12 w-auto object-contain border border-[#d4ad58]/60 bg-[#111111] p-1.5 transition-transform group-hover:scale-105"
               />

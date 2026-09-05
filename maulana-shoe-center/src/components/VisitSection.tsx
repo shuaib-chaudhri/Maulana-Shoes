@@ -157,7 +157,7 @@ export const VisitSection: React.FC = () => {
             {/* Storefront Picture Card */}
             <div className="relative aspect-[16/10] overflow-hidden bg-[#242d36] border border-[#f7f4ed]/15 shadow-xl">
               <img
-                src="/images/collection-editorial.jpg"
+                src="./images/collection-editorial.jpg"
                 alt="Maulana Shoe Center footwear collection"
                 className="h-full w-full object-cover"
               />
