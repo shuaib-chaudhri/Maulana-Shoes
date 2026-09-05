@@ -55,8 +55,6 @@ jobs:
     needs: build
 
     steps:
-      - name: Wait for default branch deployment to complete
-        run: sleep 20
 
       - name: Deploy to GitHub Pages
         id: deployment
